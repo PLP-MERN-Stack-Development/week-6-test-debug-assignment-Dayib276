@@ -1,0 +1,1 @@
+// Bug list display component

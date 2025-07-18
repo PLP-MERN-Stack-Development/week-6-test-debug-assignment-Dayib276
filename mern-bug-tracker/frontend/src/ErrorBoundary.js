@@ -1,0 +1,1 @@
+// React error boundary component
